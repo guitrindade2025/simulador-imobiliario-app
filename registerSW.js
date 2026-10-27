@@ -1,0 +1,1 @@
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/simulador-imobiliario-app/sw.js', { scope: '/simulador-imobiliario-app/' })})}
