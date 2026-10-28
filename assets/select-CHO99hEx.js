@@ -1,0 +1,1 @@
+import{c as e,r as t,s as n}from"./button-CB9Qm8Vz.js";var r=n();function i({className:n,children:i,...a}){return(0,r.jsx)(`select`,{className:e(`h-11 w-full min-w-0 rounded-lg border border-stone-300 bg-white px-3 text-sm text-stone-900`,t,n),...a,children:i})}export{i as t};

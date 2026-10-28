@@ -1,1 +1,0 @@
-import{a as e,d as t,u as n}from"./input-BlB2ZNrz.js";var r=n();function i({className:n,children:i,...a}){return(0,r.jsx)(`select`,{className:t(`h-11 w-full min-w-0 rounded-lg border border-stone-300 bg-white px-3 text-sm text-stone-900`,e,n),...a,children:i})}export{i as t};
