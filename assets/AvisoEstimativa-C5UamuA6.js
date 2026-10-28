@@ -1,0 +1,1 @@
+import{u as e}from"./input-BlB2ZNrz.js";var t=e();function n(){return(0,t.jsx)(`p`,{role:`note`,className:`text-sm leading-relaxed text-stone-700`,children:`Estimativa — não constitui aconselhamento fiscal. Confirme no Portal das Finanças.`})}export{n as t};
